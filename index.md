@@ -1,6 +1,7 @@
 
-## Welcome to GitHub Pages
+## Hello
 
+This page only for fun. Anything can be in this page. Hope you guys enjoy all the content.
 
 You can use the [editor on GitHub](https://github.com/Norazdmiey/mimiko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
