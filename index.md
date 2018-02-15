@@ -1,5 +1,4 @@
-Title: Welcome to Mimiko Caunselor Page
-Description : Hello !
+
 ## Welcome to GitHub Pages
 
 
